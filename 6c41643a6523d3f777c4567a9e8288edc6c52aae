@@ -1,0 +1,15 @@
+{
+  "categories": [
+    "ASIC & FPGA",
+    "Edge AI & Software"
+  ],
+  "tags": [
+    "fpga",
+    "risc-v",
+    "ram",
+    "row-hammer",
+    "ddr3",
+    "ddr4",
+    "lpddr4"
+  ]
+}
